@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/CellularSyntax/SPARC-codathon-team8/main/img/logo.png" style="display: block; margin-left: auto; margin-right: auto; width: 30%;"/>
+<img src="https://raw.githubusercontent.com/CellularSyntax/SPARC-codathon-team8/main/img/logo_new.png" style="display: block; margin-left: auto; margin-right: auto; width: 30%;"/>
 
-## SPARC.RL: A Data-Driven Tool for Training Reinforcement Learning Agents to Control Medical Devices with Ease
+## Train Data-Driven Reinforcement Learning Agents to Control Medical Devices with Ease
 SPARC.RL is a first proof-of-concept tool, developed during the [2024 SPARC FAIR Codeathon](https://sparc.science/news-and-events/events/2024-sparc-fair-codeathon), designed to enable researchers, even those without specific domain knowledge in reinforcement learning, to effortlessly train sophisticated, state-of-the-art reinforcement learning (RL) agents for medical device control (e.g. closed-loop neuromodulation) levarging the power of [Stable Baselines 3](https://stable-baselines3.readthedocs.io/). SPARC.RL allows users to integrate and utilize data and models from the [SPARC](https://sparc.science/) platform seamlessly. While this tool offers powerful capabilities, please note that it is an initial prototype, and no guarantees are made regarding its bug-freeness.
 
 ### Key Features:
